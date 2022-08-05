@@ -77,8 +77,3 @@ rm -rf .git
 cd ../..
 
 ./make_index.sh
-
-rm -rf docs
-mv "new_data/$REPO_FOLDER" docs
-rm -rf new_data
-cp -r extra/* docs
