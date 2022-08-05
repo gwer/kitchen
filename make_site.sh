@@ -8,7 +8,7 @@ cd new_data
 git clone "https://github.com/$POSTS_REPO.git" "$REPO_FOLDER"
 # Больше 100 открытых PR'ов не отработают корректно.
 curl -o prs.json  "https://api.github.com/repos/$POSTS_REPO/pulls?per_page=100"
-grep "patch_url" prs.json | sed "s/^.*\": \"//" | sed "s/\",$//" > ./patches_list.txt
+grep "patch_url" prs.json | sed "s/^\xef\xbb\xbf//" | sed "s/^.*\": \"//" | sed "s/\",$//" > ./patches_list.txt
 
 mkdir patches
 cd patches

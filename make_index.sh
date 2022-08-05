@@ -25,7 +25,7 @@ while read post_path; do
   POST_LINK="| ${DATE} | [$TITLE]($post_path) | <small>${AUTHORS}</small> | <small>[]($post_path#disqus_thread)</small> |"
 
   echo $POST_LINK >> $INDEX_FILE
-done < <(sort $POSTS_LIST_FILE | awk '{print $2}')
+done < <(sort -r $POSTS_LIST_FILE | awk '{print $2}')
 
 echo '' >> $INDEX_FILE
 echo '***' >> $INDEX_FILE
