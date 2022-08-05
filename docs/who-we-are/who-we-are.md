@@ -3,7 +3,6 @@ layout: post_with_comments
 title: Разраб — кто ты, что с тобой стало, что с тобой будет
 date: 2022-08-01
 author: Fill
-comments: true
 ---
 
 

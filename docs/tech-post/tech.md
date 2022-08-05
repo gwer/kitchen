@@ -3,7 +3,6 @@ layout: post_with_comments
 title: Пишите здесь технические посты, но только — со своими идеями
 date: 2022-08-01
 author: Fill
-comments: true
 ---
 
 

@@ -3,7 +3,6 @@ layout: post_with_comments
 title: Техсобесы — булщит
 date: 2022-08-02
 author: Adam Arutyunov, Адам Арутюнов
-comments: true
 ---
 
 

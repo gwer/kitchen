@@ -3,7 +3,6 @@ layout: post_with_comments
 title: Что еще за «Разрабы»
 date: 2022-08-01
 author: Fill, Victor Vedenin
-comments: true
 ---
 
 

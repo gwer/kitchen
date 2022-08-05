@@ -36,5 +36,9 @@
         {{ content }}
       </section>
     </div>
+
+    {% if site.comments %}
+      <script id="dsq-count-scr" src="//{{ site.disqus }}.disqus.com/count.js" async></script>
+    {% endif %}
   </body>
 </html>

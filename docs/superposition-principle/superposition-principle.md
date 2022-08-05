@@ -3,7 +3,6 @@ layout: post_with_comments
 title: Квантовая суперпозиция
 date: 2022-08-02
 author: Sergei Poliakov
-comments: true
 ---
 
 

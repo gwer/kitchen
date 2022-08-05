@@ -3,7 +3,6 @@ layout: post_with_comments
 title: Преподаватель о том «как не потерять время в университете впустую»
 date: 2022-08-05
 author: pylounge
-comments: true
 ---
 
 

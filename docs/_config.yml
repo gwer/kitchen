@@ -1,4 +1,5 @@
 theme: jekyll-theme-hacker
 google_analytics: G-JDZ2XMTXZN
 show_github_header: false
+comments: true
 disqus: kitchen-7

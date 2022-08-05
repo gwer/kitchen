@@ -3,7 +3,6 @@ layout: post_with_comments
 title: Humane API REST Protocol
 date: 2022-08-02
 author: nin-jin
-comments: true
 ---
 
 

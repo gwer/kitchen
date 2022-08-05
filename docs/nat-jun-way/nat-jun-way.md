@@ -3,7 +3,6 @@ layout: post_with_comments
 title: Тяжелейший путь с нуля до джуна и мидла. Ультимативный гайд, советы и личный опыт Наташи Давыдовой
 date: 2022-08-02
 author: Philipp Ranzhin, Slava Zakharov, Stepan, nat-davydova
-comments: true
 ---
 
 ![img](preview.jpg)

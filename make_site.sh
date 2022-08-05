@@ -63,7 +63,6 @@ for folder_name in *; do
     echo "title: $TITLE" >> "$post_path.new"
     echo "date: $DATE" >> "$post_path.new"
     echo "author: $AUTORS" >> "$post_path.new"
-    echo "comments: true" >> "$post_path.new"
     echo "---" >> "$post_path.new"
     echo "" >> "$post_path.new"
 

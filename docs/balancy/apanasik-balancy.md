@@ -3,7 +3,6 @@ layout: post_with_comments
 title: Из разработчиков игр в разработчики сервиса Balancy для разработчиков игр
 date: 2022-08-04
 author: suvitruf
-comments: true
 ---
 
 ![Balancy preview](balancy-preview.png)

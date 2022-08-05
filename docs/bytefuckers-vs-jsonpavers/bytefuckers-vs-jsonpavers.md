@@ -3,7 +3,6 @@ layout: post_with_comments
 title: 🧱Байтодрочеры vs 🚜Джейсоноукладчики
 date: 2022-08-02
 author: Anton Sosnin
-comments: true
 ---
 
 

@@ -3,7 +3,6 @@ layout: post_with_comments
 title: Ультимативная взаимопомощь — единственный шанс снгшных айтишников жить как раньше
 date: 2022-08-01
 author: Fill
-comments: true
 ---
 
 
