@@ -1,5 +1,6 @@
 - [Что еще за «Разрабы»](./about-us/about-us.md) <sup>Fill, Victor Vedenin :: 4 days ago</sup>
 - [Из разработчиков игр в разработчики сервиса Balancy для разработчиков игр](./balancy/apanasik-balancy.md) <sup>suvitruf :: 23 hours ago</sup>
+- [🧱Байтодрочеры vs 🚜Джейсоноукладчики](./bytefuckers-vs-jsonpavers/bytefuckers-vs-jsonpavers.md) <sup>Anton Sosnin :: 3 days ago</sup>
 - [Я так люблю писать код, но ненавижу делать это за деньги](./commercial/commercial.md) <sup>Kira Sotnikoff :: 4 days ago</sup>
 - [Humane API REST Protocol](./humane-api-rest-protocol/humane-api-rest-protocol.md) <sup>nin-jin :: 3 days ago</sup>
 - [Чего ждать от IT рынка в 2022 году?](./it-in-2022/it-in-2022.md) <sup>Vitaliy Emeliyantsev :: 3 days ago</sup>
