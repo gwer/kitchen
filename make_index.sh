@@ -3,16 +3,19 @@ POSTS_LIST_FILE="../posts_list.txt"
 REPO_FOLDER="posts_repo"
 
 cd "./new_data/$REPO_FOLDER"
-rm $INDEX_FILE
+
+echo '---' > $INDEX_FILE
+echo 'layout: default' >> $INDEX_FILE
+echo '---' >> $INDEX_FILE
 
 while read post_path; do
   AUTHORS=$(cat "$post_path.authors")
-  RELATIVE_DATE=$(cat "$post_path.relative_date")
+  DATE=$(cat "$post_path.date")
   TITLE=$(cat "$post_path.title")
-  POST_LINK="- [$TITLE]($post_path) <sup>${AUTHORS} :: ${RELATIVE_DATE}</sup>"
+  POST_LINK="- ${DATE} :: [$TITLE]($post_path) <sup>${AUTHORS}</sup>"
 
   echo $POST_LINK >> $INDEX_FILE
-done < $POSTS_LIST_FILE
+done < <(sort $POSTS_LIST_FILE | awk '{print $2}')
 
 echo '' >> $INDEX_FILE
 echo '***' >> $INDEX_FILE

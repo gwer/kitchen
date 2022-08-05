@@ -1,6 +1,10 @@
-_nin-jin 3 days ago_
+---
+layout: post
+title: Humane API REST Protocol
+date: 2022-08-02
+author: nin-jin
+---
 
-# Humane API REST Protocol
 
 ![](logo.png)
 

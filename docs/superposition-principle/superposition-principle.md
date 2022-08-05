@@ -1,6 +1,10 @@
-_Sergei Poliakov 3 days ago_
+---
+layout: post
+title: Квантовая суперпозиция
+date: 2022-08-02
+author: Sergei Poliakov
+---
 
-# Квантовая суперпозиция
 
 ![img](preview.jpeg)
 Сергей Поляков, Engineering Manager, голос подкаста "Уважаемые люди", кроссфит-атлет.

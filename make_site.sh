@@ -8,7 +8,7 @@ cd new_data
 git clone "https://github.com/$POSTS_REPO.git" "$REPO_FOLDER"
 # Больше 100 открытых PR'ов не отработают корректно.
 curl -o prs.json  "https://api.github.com/repos/$POSTS_REPO/pulls?per_page=100"
-grep 'patch_url' prs.json | sed "s/^.*\": \"//" | sed "s/\",$//" > ./patches_list.txt
+grep "patch_url" prs.json | sed "s/^.*\": \"//" | sed "s/\",$//" > ./patches_list.txt
 
 mkdir patches
 cd patches
@@ -20,9 +20,9 @@ cd "../$REPO_FOLDER"
 
 # Применяем патчи, конфликтные скипаем.
 git am -q ../patches/*.patch
-while git am --skip
+while git am --show-current-patch &> /dev/null
 do
-  :
+  git am --skip
 done
 
 # Удаляем ридми
@@ -55,21 +55,21 @@ for folder_name in *; do
     AUTORS=$(git log --pretty=format:"%an%x09" "$post_path" | sort | uniq | tr -d '\t' | tr '\n' ',' | sed 's/,/, /g' | rev | cut -c3- | rev)
     echo $AUTORS > "$post_path.authors"
 
-    SHORT_DATE=$(git log --follow --format=%ad --date short "$post_path" | tail -1)
-    echo $SHORT_DATE > "$post_path.short_date"
+    DATE=$(git log --follow --format=%ad --date short "$post_path" | tail -1)
+    echo $DATE > "$post_path.date"
 
-    RELATIVE_DATE=$(git log --follow --format=%ad --date relative "$post_path" | tail -1)
-    echo $RELATIVE_DATE > "$post_path.relative_date"
+    echo "---" > "$post_path.new"
+    echo "layout: post" >> "$post_path.new"
+    echo "title: $TITLE" >> "$post_path.new"
+    echo "date: $DATE" >> "$post_path.new"
+    echo "author: $AUTORS" >> "$post_path.new"
+    echo "---" >> "$post_path.new"
+    echo "" >> "$post_path.new"
 
-    HEADER="_${AUTORS} ${RELATIVE_DATE}_"
+    tail -n +2 $post_path >> "$post_path.new"
+    mv -f "$post_path.new" $post_path
 
-    echo $HEADER > "$post_path.new"
-    echo '' >> "$post_path.new"
-    cat $post_path >> "$post_path.new"
-    rm $post_path
-    mv "$post_path.new" $post_path
-
-    echo $post_path >> ../posts_list.txt
+    echo "$DATE $post_path" >> ../posts_list.txt
   done
 done
 
@@ -81,4 +81,4 @@ cd ../..
 rm -rf docs
 mv "new_data/$REPO_FOLDER" docs
 rm -rf new_data
-cp _config.yml docs
+cp -r extra/* docs

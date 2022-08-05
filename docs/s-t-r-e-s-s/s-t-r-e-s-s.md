@@ -1,6 +1,10 @@
-_Aleksandr Semenov (Akvelon INC), Alex Andrero 3 days ago_
+---
+layout: post
+title: С.Т.Р.Е.С.С. - Совет Тем Релоцировавшимся, Еле Сдерживающим Слезы
+date: 2022-08-02
+author: Aleksandr Semenov (Akvelon INC), Alex Andrero
+---
 
-# С.Т.Р.Е.С.С. - Совет Тем Релоцировавшимся, Еле Сдерживающим Слезы
 
 ![img](preview.jpg)
 

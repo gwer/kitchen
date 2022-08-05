@@ -1,6 +1,10 @@
-_Adam Arutyunov, Адам Арутюнов 3 days ago_
+---
+layout: post
+title: Техсобесы — булщит
+date: 2022-08-02
+author: Adam Arutyunov, Адам Арутюнов
+---
 
-# Техсобесы — булщит
 
 ![JavaScript For Kids Meme](preview.png)
 

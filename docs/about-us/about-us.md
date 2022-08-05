@@ -1,6 +1,10 @@
-_Fill, Victor Vedenin 4 days ago_
+---
+layout: post
+title: Что еще за «Разрабы»
+date: 2022-08-01
+author: Fill, Victor Vedenin
+---
 
-# Что еще за «Разрабы»
 
 ![img](preview.jpg)
 

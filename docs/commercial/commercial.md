@@ -1,6 +1,10 @@
-_Kira Sotnikoff 4 days ago_
+---
+layout: post
+title: Я так люблю писать код, но ненавижу делать это за деньги
+date: 2022-08-01
+author: Kira Sotnikoff
+---
 
-# Я так люблю писать код, но ненавижу делать это за деньги
 
 ![img](preview.jpg)
 
