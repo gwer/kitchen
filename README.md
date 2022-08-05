@@ -28,7 +28,7 @@ Bash для всей магии. GitHub Pages, чтобы всё это захо
 
 **Как создать чистую ветку `pages`, если её почему-то нет в репозитории**
 
-git checkout --orphan pages && git rm -rf . && touch README.md && git add README.md && git commit -m "Empty pages branch"
+`git checkout --orphan pages && git rm -rf . && touch README.md && git add README.md && git commit -m "Empty pages branch"`
 
 **Хочу такое же, но с другим источником публикаций**
 
