@@ -8,7 +8,7 @@ while read post_path; do
   AUTHORS=$(cat "$post_path.authors")
   RELATIVE_DATE=$(cat "$post_path.relative_date")
   TITLE=$(cat "$post_path.title")
-  POST_LINK="- [$TITLE]($post_path) :: _${AUTHORS}_ :: _${RELATIVE_DATE}_"
+  POST_LINK="- [$TITLE]($post_path) <sup>${AUTHORS} :: ${RELATIVE_DATE}</sup>"
 
   echo $POST_LINK >> $INDEX_FILE
 done < $POSTS_LIST_FILE
