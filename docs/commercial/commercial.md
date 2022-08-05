@@ -1,8 +1,9 @@
 ---
-layout: post
+layout: post_with_comments
 title: Я так люблю писать код, но ненавижу делать это за деньги
 date: 2022-08-01
 author: Kira Sotnikoff
+comments: true
 ---
 
 

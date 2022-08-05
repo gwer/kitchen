@@ -1,8 +1,9 @@
 ---
-layout: post
+layout: post_with_comments
 title: Мой стартап 69.kg
 date: 2022-08-02
 author: Михаил Фёдоров
+comments: true
 ---
 
 

@@ -1,8 +1,9 @@
 ---
-layout: post
+layout: post_with_comments
 title: С.Т.Р.Е.С.С. - Совет Тем Релоцировавшимся, Еле Сдерживающим Слезы
 date: 2022-08-02
 author: Aleksandr Semenov (Akvelon INC), Alex Andrero
+comments: true
 ---
 
 
