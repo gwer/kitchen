@@ -1,4 +1,4 @@
-_Kira Sotnikoff 3 days ago_
+_Kira Sotnikoff 4 days ago_
 
 # Я так люблю писать код, но ненавижу делать это за деньги
 

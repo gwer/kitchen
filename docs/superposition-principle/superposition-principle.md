@@ -1,4 +1,4 @@
-_Sergei Poliakov 2 days ago_
+_Sergei Poliakov 3 days ago_
 
 # Квантовая суперпозиция
 

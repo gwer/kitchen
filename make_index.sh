@@ -1,7 +1,8 @@
 INDEX_FILE="./index.md"
 POSTS_LIST_FILE="../posts_list.txt"
+REPO_FOLDER="posts_repo"
 
-cd ./new_data/editorial
+cd "./new_data/$REPO_FOLDER"
 rm $INDEX_FILE
 
 while read post_path; do

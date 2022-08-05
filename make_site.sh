@@ -1,10 +1,13 @@
+POSTS_REPO="razrabs-media/editorial"
+REPO_FOLDER="posts_repo"
+
 rm -rf new_data
 mkdir new_data
 cd new_data
 
-git clone https://github.com/razrabs-media/editorial.git
+git clone "https://github.com/$POSTS_REPO.git" "$REPO_FOLDER"
 # Больше 100 открытых PR'ов не отработают корректно.
-curl -o prs.json  https://api.github.com/repos/razrabs-media/editorial/pulls?per_page=100
+curl -o prs.json  "https://api.github.com/repos/$POSTS_REPO/pulls?per_page=100"
 grep 'patch_url' prs.json | sed "s/^.*\": \"//" | sed "s/\",$//" > ./patches_list.txt
 
 mkdir patches
@@ -13,7 +16,7 @@ cd patches
 # Скачивание всех патчей
 xargs -n 1 curl -L -O < ../patches_list.txt
 
-cd ../editorial
+cd "../$REPO_FOLDER"
 
 # Применяем патчи, конфликтные скипаем.
 git am -q ../patches/*.patch
@@ -76,6 +79,6 @@ cd ../..
 ./make_index.sh
 
 rm -rf docs
-mv new_data/editorial docs
+mv "new_data/$REPO_FOLDER" docs
 rm -rf new_data
 cp _config.yml docs

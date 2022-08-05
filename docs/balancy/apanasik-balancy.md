@@ -1,4 +1,4 @@
-_suvitruf 14 hours ago_
+_suvitruf 23 hours ago_
 
 # Из разработчиков игр в разработчики сервиса Balancy для разработчиков игр
 ![Balancy preview](balancy-preview.png)
