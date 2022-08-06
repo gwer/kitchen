@@ -77,3 +77,4 @@ rm -rf .git
 cd ../..
 
 ./make_index.sh
+./make_rss.sh

@@ -34,4 +34,5 @@ echo '' >> $INDEX_FILE
 echo '[GitHub](https://github.com/gwer/kitchen) ::' >> $INDEX_FILE
 echo '[Twitter](https://twitter.com/webholt) ::' >> $INDEX_FILE
 echo '[Репозиторий с публикациями](https://github.com/razrabs-media/editorial) ::' >> $INDEX_FILE
-echo '[razrabs.ru](https://razrabs.ru)' >> $INDEX_FILE
+echo '[razrabs.ru](https://razrabs.ru) ::' >> $INDEX_FILE
+echo '[RSS](feed.rss)' >> $INDEX_FILE
