@@ -10,7 +10,7 @@ layout: default
 |||||
 | :--- | :--- | :--- | ---: |
 | 2022-08-05 | [Преподаватель о том «как не потерять время в университете впустую»](./how-not-waste-time-university/how-not-waste-time-university.md) | <small>pylounge</small> | <small>[](./how-not-waste-time-university/how-not-waste-time-university.md#disqus_thread)</small> |
-| 2022-08-04 | [Из разработчиков игр в разработчики сервиса Balancy для разработчиков игр](./balancy/apanasik-balancy.md) | <small>suvitruf</small> | <small>[](./balancy/apanasik-balancy.md#disqus_thread)</small> |
+| 2022-08-04 | [Из разработчиков игр в разработчики сервиса Balancy для разработчиков игр](./balancy/apanasik-balancy.md) | <small>Fill, suvitruf</small> | <small>[](./balancy/apanasik-balancy.md#disqus_thread)</small> |
 | 2022-08-02 | [Техсобесы — булщит](./tech-reviews-bullshit/tech-reviews-bullshit.md) | <small>Adam Arutyunov, Адам Арутюнов</small> | <small>[](./tech-reviews-bullshit/tech-reviews-bullshit.md#disqus_thread)</small> |
 | 2022-08-02 | [Квантовая суперпозиция](./superposition-principle/superposition-principle.md) | <small>Sergei Poliakov</small> | <small>[](./superposition-principle/superposition-principle.md#disqus_thread)</small> |
 | 2022-08-02 | [С.Т.Р.Е.С.С. - Совет Тем Релоцировавшимся, Еле Сдерживающим Слезы](./s-t-r-e-s-s/s-t-r-e-s-s.md) | <small>Aleksandr Semenov (Akvelon INC), Alex Andrero</small> | <small>[](./s-t-r-e-s-s/s-t-r-e-s-s.md#disqus_thread)</small> |
@@ -30,4 +30,5 @@ layout: default
 [GitHub](https://github.com/gwer/kitchen) ::
 [Twitter](https://twitter.com/webholt) ::
 [Репозиторий с публикациями](https://github.com/razrabs-media/editorial) ::
-[razrabs.ru](https://razrabs.ru)
+[razrabs.ru](https://razrabs.ru) ::
+[RSS](feed.rss)
