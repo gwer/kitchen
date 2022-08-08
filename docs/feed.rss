@@ -4,6 +4,18 @@
   <description>Хорошо живу, купаюсь в бассейне, пью джюс</description>
   <link>https://gwer.github.io/kitchen/</link>
   <item>
+    <title>Свежий взгляд на мапперы</title>
+    <link>https://gwer.github.io/kitchen/svezhij-vzglyad-na-mappery/svezhij-vzglyad-na-mappery.html</link>
+    <dc:creator>Anton Ryabchikov</dc:creator>
+    <dc:date>2022-08-08</dc:date>
+  </item>
+  <item>
+    <title>Меня выперли из Clay Global за фуа-гра, шутки и национальность </title>
+    <link>https://gwer.github.io/kitchen/clay-global/clay.html</link>
+    <dc:creator>Редакция "Разрабов</dc:creator>
+    <dc:date>2022-08-08</dc:date>
+  </item>
+  <item>
     <title>Преподаватель о том «как не потерять время в университете впустую»</title>
     <link>https://gwer.github.io/kitchen/how-not-waste-time-university/how-not-waste-time-university.html</link>
     <dc:creator>pylounge</dc:creator>
@@ -36,7 +48,7 @@
   <item>
     <title>Тяжелейший путь с нуля до джуна и мидла. Ультимативный гайд, советы и личный опыт Наташи Давыдовой</title>
     <link>https://gwer.github.io/kitchen/nat-jun-way/nat-jun-way.html</link>
-    <dc:creator>Philipp Ranzhin, Slava Zakharov, Stepan, nat-davydova</dc:creator>
+    <dc:creator>Azat S, Philipp Ranzhin, Slava Zakharov, Stepan, nat-davydova</dc:creator>
     <dc:date>2022-08-02</dc:date>
   </item>
   <item>
