@@ -10,7 +10,7 @@ layout: default
 |||||
 | :--- | :--- | :--- | ---: |
 | 2022-08-08 | [Свежий взгляд на мапперы](./svezhij-vzglyad-na-mappery/svezhij-vzglyad-na-mappery.md) | <small>Anton Ryabchikov</small> | <small>[](./svezhij-vzglyad-na-mappery/svezhij-vzglyad-na-mappery.md#disqus_thread)</small> |
-| 2022-08-08 | [Меня выперли из Clay Global за фуа-гра, шутки и национальность ](./clay-global/clay.md) | <small>Редакция "Разрабов</small> | <small>[](./clay-global/clay.md#disqus_thread)</small> |
+| 2022-08-08 | [Меня выперли из Clay Global за фуа-гра, шутки и национальность](./clay-global/clay.md) | <small>Редакция "Разрабов</small> | <small>[](./clay-global/clay.md#disqus_thread)</small> |
 | 2022-08-05 | [Преподаватель о том «как не потерять время в университете впустую»](./how-not-waste-time-university/how-not-waste-time-university.md) | <small>pylounge</small> | <small>[](./how-not-waste-time-university/how-not-waste-time-university.md#disqus_thread)</small> |
 | 2022-08-04 | [Из разработчиков игр в разработчики сервиса Balancy для разработчиков игр](./balancy/apanasik-balancy.md) | <small>Fill, suvitruf</small> | <small>[](./balancy/apanasik-balancy.md#disqus_thread)</small> |
 | 2022-08-02 | [Техсобесы — булщит](./tech-reviews-bullshit/tech-reviews-bullshit.md) | <small>Adam Arutyunov, Адам Арутюнов</small> | <small>[](./tech-reviews-bullshit/tech-reviews-bullshit.md#disqus_thread)</small> |
