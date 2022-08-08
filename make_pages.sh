@@ -44,7 +44,7 @@ for folder_name in *; do
     RAW_TITLE=$(head -n 1 "$post_path")
 
     if [[ ${RAW_TITLE::2} == "# " ]]; then
-      TITLE=$(echo $RAW_TITLE | sed "s/^# //")
+      TITLE=$(echo $RAW_TITLE | sed "s/^# //" | sed "s/\r$//")
     else
       # rm $post_path
       continue
