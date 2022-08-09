@@ -4,6 +4,12 @@
   <description>Хорошо живу, купаюсь в бассейне, пью джюс</description>
   <link>https://gwer.github.io/kitchen/</link>
   <item>
+    <title>Айти сообщество видит только технические проблемы и игнорирует человеческие. Это его убьет</title>
+    <link>https://gwer.github.io/kitchen/tech-vs-life/tech-vs-life.html</link>
+    <dc:creator>Fill</dc:creator>
+    <dc:date>2022-08-09</dc:date>
+  </item>
+  <item>
     <title>Свежий взгляд на мапперы</title>
     <link>https://gwer.github.io/kitchen/svezhij-vzglyad-na-mappery/svezhij-vzglyad-na-mappery.html</link>
     <dc:creator>Anton Ryabchikov</dc:creator>
@@ -31,12 +37,6 @@
     <title>Техсобесы — булщит</title>
     <link>https://gwer.github.io/kitchen/tech-reviews-bullshit/tech-reviews-bullshit.html</link>
     <dc:creator>Adam Arutyunov, Адам Арутюнов</dc:creator>
-    <dc:date>2022-08-02</dc:date>
-  </item>
-  <item>
-    <title>Квантовая суперпозиция</title>
-    <link>https://gwer.github.io/kitchen/superposition-principle/superposition-principle.html</link>
-    <dc:creator>Sergei Poliakov</dc:creator>
     <dc:date>2022-08-02</dc:date>
   </item>
   <item>
