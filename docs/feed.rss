@@ -3,5 +3,113 @@
   <title>Gwer's Kitchen</title>
   <description>Хорошо живу, купаюсь в бассейне, пью джюс</description>
   <link>https://gwer.github.io/kitchen/</link>
+  <item>
+    <title>Айти сообщество видит только технические проблемы и игнорирует человеческие. Это его убьет</title>
+    <link>https://gwer.github.io/kitchen/tech-vs-life/tech-vs-life.html</link>
+    <dc:creator>Fill</dc:creator>
+    <dc:date>2022-08-09</dc:date>
+  </item>
+  <item>
+    <title>Свежий взгляд на мапперы</title>
+    <link>https://gwer.github.io/kitchen/svezhij-vzglyad-na-mappery/svezhij-vzglyad-na-mappery.html</link>
+    <dc:creator>Anton Ryabchikov</dc:creator>
+    <dc:date>2022-08-08</dc:date>
+  </item>
+  <item>
+    <title>Меня выперли из Clay Global за фуа-гра, шутки и национальность</title>
+    <link>https://gwer.github.io/kitchen/clay-global/clay.html</link>
+    <dc:creator>Редакция "Разрабов</dc:creator>
+    <dc:date>2022-08-08</dc:date>
+  </item>
+  <item>
+    <title>Преподаватель о том «как не потерять время в университете впустую»</title>
+    <link>https://gwer.github.io/kitchen/how-not-waste-time-university/how-not-waste-time-university.html</link>
+    <dc:creator>pylounge</dc:creator>
+    <dc:date>2022-08-05</dc:date>
+  </item>
+  <item>
+    <title>Адвокат дьявола: должны ли корпоративные IT-блоги гореть в геенне огненной?</title>
+    <link>https://gwer.github.io/kitchen/corporate/corporate.html</link>
+    <dc:creator>Fill, expectfun</dc:creator>
+    <dc:date>2022-08-05</dc:date>
+  </item>
+  <item>
+    <title>Из разработчиков игр в разработчики сервиса Balancy для разработчиков игр</title>
+    <link>https://gwer.github.io/kitchen/balancy/apanasik-balancy.html</link>
+    <dc:creator>Fill, suvitruf</dc:creator>
+    <dc:date>2022-08-04</dc:date>
+  </item>
+  <item>
+    <title>Техсобесы — булщит</title>
+    <link>https://gwer.github.io/kitchen/tech-reviews-bullshit/tech-reviews-bullshit.html</link>
+    <dc:creator>Adam Arutyunov, Адам Арутюнов</dc:creator>
+    <dc:date>2022-08-02</dc:date>
+  </item>
+  <item>
+    <title>С.Т.Р.Е.С.С. - Совет Тем Релоцировавшимся, Еле Сдерживающим Слезы</title>
+    <link>https://gwer.github.io/kitchen/s-t-r-e-s-s/s-t-r-e-s-s.html</link>
+    <dc:creator>Aleksandr Semenov (Akvelon INC), Alex Andrero</dc:creator>
+    <dc:date>2022-08-02</dc:date>
+  </item>
+  <item>
+    <title>Тяжелейший путь с нуля до джуна и мидла. Ультимативный гайд, советы и личный опыт Наташи Давыдовой</title>
+    <link>https://gwer.github.io/kitchen/nat-jun-way/nat-jun-way.html</link>
+    <dc:creator>Azat S, Philipp Ranzhin, Slava Zakharov, Stepan, nat-davydova</dc:creator>
+    <dc:date>2022-08-02</dc:date>
+  </item>
+  <item>
+    <title>Мой стартап 69.kg</title>
+    <link>https://gwer.github.io/kitchen/my-startup/my-startup.html</link>
+    <dc:creator>Михаил Фёдоров</dc:creator>
+    <dc:date>2022-08-02</dc:date>
+  </item>
+  <item>
+    <title>Чего ждать от IT рынка в 2022 году?</title>
+    <link>https://gwer.github.io/kitchen/it-in-2022/it-in-2022.html</link>
+    <dc:creator>Vitaliy Emeliyantsev</dc:creator>
+    <dc:date>2022-08-02</dc:date>
+  </item>
+  <item>
+    <title>Humane API REST Protocol</title>
+    <link>https://gwer.github.io/kitchen/humane-api-rest-protocol/humane-api-rest-protocol.html</link>
+    <dc:creator>nin-jin</dc:creator>
+    <dc:date>2022-08-02</dc:date>
+  </item>
+  <item>
+    <title>🧱Байтодрочеры vs 🚜Джейсоноукладчики</title>
+    <link>https://gwer.github.io/kitchen/bytefuckers-vs-jsonpavers/bytefuckers-vs-jsonpavers.html</link>
+    <dc:creator>Anton Sosnin</dc:creator>
+    <dc:date>2022-08-02</dc:date>
+  </item>
+  <item>
+    <title>Разраб — кто ты, что с тобой стало, что с тобой будет</title>
+    <link>https://gwer.github.io/kitchen/who-we-are/who-we-are.html</link>
+    <dc:creator>Fill</dc:creator>
+    <dc:date>2022-08-01</dc:date>
+  </item>
+  <item>
+    <title>Пишите здесь технические посты, но только — со своими идеями</title>
+    <link>https://gwer.github.io/kitchen/tech-post/tech.html</link>
+    <dc:creator>Fill</dc:creator>
+    <dc:date>2022-08-01</dc:date>
+  </item>
+  <item>
+    <title>Ультимативная взаимопомощь — единственный шанс снгшных айтишников жить как раньше</title>
+    <link>https://gwer.github.io/kitchen/stay-together/stay-together.html</link>
+    <dc:creator>Fill</dc:creator>
+    <dc:date>2022-08-01</dc:date>
+  </item>
+  <item>
+    <title>Я так люблю писать код, но ненавижу делать это за деньги</title>
+    <link>https://gwer.github.io/kitchen/commercial/commercial.html</link>
+    <dc:creator>Kira Sotnikoff</dc:creator>
+    <dc:date>2022-08-01</dc:date>
+  </item>
+  <item>
+    <title>Что еще за «Разрабы»</title>
+    <link>https://gwer.github.io/kitchen/about-us/about-us.html</link>
+    <dc:creator>Fill, Victor Vedenin</dc:creator>
+    <dc:date>2022-08-01</dc:date>
+  </item>
 </channel>
 </rss>
