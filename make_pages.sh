@@ -41,7 +41,7 @@ for folder_name in *; do
   fi
 
   for post_path in ./$folder_name/*.md; do
-    RAW_TITLE=$(head -n 1 "$post_path")
+    RAW_TITLE=$(head -n 1 "$post_path" | sed "s/^\xef\xbb\xbf//")
 
     if [[ ${RAW_TITLE::2} == "# " ]]; then
       TITLE=$(echo $RAW_TITLE | sed "s/^# //" | sed "s/\r$//")
