@@ -9,6 +9,7 @@ layout: default
 </style>
 |||||
 | :--- | :--- | :--- | ---: |
+| 2022-08-10 | [Куда движется Web3.0?](./where-is-web3-going/where-is-web3-going.md) | <small>Anatoly Piskunov</small> | <small>[](./where-is-web3-going/where-is-web3-going.md#disqus_thread)</small> |
 | 2022-08-09 | [Айти сообщество видит только технические проблемы и игнорирует человеческие. Это его убьет](./tech-vs-life/tech-vs-life.md) | <small>Fill</small> | <small>[](./tech-vs-life/tech-vs-life.md#disqus_thread)</small> |
 | 2022-08-08 | [Свежий взгляд на мапперы](./svezhij-vzglyad-na-mappery/svezhij-vzglyad-na-mappery.md) | <small>Anton Ryabchikov</small> | <small>[](./svezhij-vzglyad-na-mappery/svezhij-vzglyad-na-mappery.md#disqus_thread)</small> |
 | 2022-08-08 | [Меня выперли из Clay Global за фуа-гра, шутки и национальность](./clay-global/clay.md) | <small>Редакция "Разрабов</small> | <small>[](./clay-global/clay.md#disqus_thread)</small> |
