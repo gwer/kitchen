@@ -9,6 +9,8 @@ layout: default
 </style>
 |||||
 | :--- | :--- | :--- | ---: |
+| 2022-08-11 | [Жизнь после "Hello, World"](./the-days-after-hello-world-day-0/the-days-after-hello-world-day-0.md) | <small>low.level.proger</small> | <small>[](./the-days-after-hello-world-day-0/the-days-after-hello-world-day-0.md#disqus_thread)</small> |
+| 2022-08-11 | [В начале августа интернет затравил айтишницу за твит про налоги в Грузии и Эстонии. Теперь ее увольняют одним днем на третьем месяце беременности. Вот история с ее слов](./pregnancy-it-girl/pregnancy-it-girl.md) | <small>Fill, Philipp Ranzhin</small> | <small>[](./pregnancy-it-girl/pregnancy-it-girl.md#disqus_thread)</small> |
 | 2022-08-10 | [Куда движется Web3.0?](./where-is-web3-going/where-is-web3-going.md) | <small>Anatoly Piskunov</small> | <small>[](./where-is-web3-going/where-is-web3-going.md#disqus_thread)</small> |
 | 2022-08-09 | [Айти сообщество видит только технические проблемы и игнорирует человеческие. Это его убьет](./tech-vs-life/tech-vs-life.md) | <small>Fill</small> | <small>[](./tech-vs-life/tech-vs-life.md#disqus_thread)</small> |
 | 2022-08-08 | [Свежий взгляд на мапперы](./svezhij-vzglyad-na-mappery/svezhij-vzglyad-na-mappery.md) | <small>Anton Ryabchikov</small> | <small>[](./svezhij-vzglyad-na-mappery/svezhij-vzglyad-na-mappery.md#disqus_thread)</small> |
@@ -18,7 +20,7 @@ layout: default
 | 2022-08-04 | [Из разработчиков игр в разработчики сервиса Balancy для разработчиков игр](./balancy/apanasik-balancy.md) | <small>Fill, suvitruf</small> | <small>[](./balancy/apanasik-balancy.md#disqus_thread)</small> |
 | 2022-08-02 | [Техсобесы — булщит](./tech-reviews-bullshit/tech-reviews-bullshit.md) | <small>Adam Arutyunov, Адам Арутюнов</small> | <small>[](./tech-reviews-bullshit/tech-reviews-bullshit.md#disqus_thread)</small> |
 | 2022-08-02 | [С.Т.Р.Е.С.С. - Совет Тем Релоцировавшимся, Еле Сдерживающим Слезы](./s-t-r-e-s-s/s-t-r-e-s-s.md) | <small>Aleksandr Semenov (Akvelon INC), Alex Andrero</small> | <small>[](./s-t-r-e-s-s/s-t-r-e-s-s.md#disqus_thread)</small> |
-| 2022-08-02 | [Тяжелейший путь с нуля до джуна и мидла. Ультимативный гайд, советы и личный опыт Наташи Давыдовой](./nat-jun-way/nat-jun-way.md) | <small>Azat S, Philipp Ranzhin, Slava Zakharov, Stepan, nat-davydova</small> | <small>[](./nat-jun-way/nat-jun-way.md#disqus_thread)</small> |
+| 2022-08-02 | [Тяжелейший путь с нуля до джуна и мидла. Ультимативный гайд, советы и личный опыт Наташи Давыдовой](./nat-jun-way/nat-jun-way.md) | <small>Alexander Kovrigin, Azat S, Philipp Ranzhin, Slava Zakharov, Stepan, nat-davydova</small> | <small>[](./nat-jun-way/nat-jun-way.md#disqus_thread)</small> |
 | 2022-08-02 | [Мой стартап 69.kg](./my-startup/my-startup.md) | <small>Михаил Фёдоров</small> | <small>[](./my-startup/my-startup.md#disqus_thread)</small> |
 | 2022-08-02 | [Чего ждать от IT рынка в 2022 году?](./it-in-2022/it-in-2022.md) | <small>Vitaliy Emeliyantsev</small> | <small>[](./it-in-2022/it-in-2022.md#disqus_thread)</small> |
 | 2022-08-02 | [Humane API REST Protocol](./humane-api-rest-protocol/humane-api-rest-protocol.md) | <small>nin-jin</small> | <small>[](./humane-api-rest-protocol/humane-api-rest-protocol.md#disqus_thread)</small> |
