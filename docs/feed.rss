@@ -4,6 +4,18 @@
   <description>Хорошо живу, купаюсь в бассейне, пью джюс</description>
   <link>https://gwer.github.io/kitchen/</link>
   <item>
+    <title>Как я делал принципиально новые миграции на С++</title>
+    <link>https://gwer.github.io/kitchen/sqlite-orm-new-migrations/sqlite-orm-new-migrations.html</link>
+    <dc:creator>Yevgeniy Zakharov</dc:creator>
+    <dc:date>2022-08-13</dc:date>
+  </item>
+  <item>
+    <title>Кира 2pizza бросил работу и теперь делает бесплатный vpn FuckRKN1. А еще много, очень много шитпостит — зачем это все?</title>
+    <link>https://gwer.github.io/kitchen/2pizza-story/2pizza-story.html</link>
+    <dc:creator>Редакция "Разрабов</dc:creator>
+    <dc:date>2022-08-12</dc:date>
+  </item>
+  <item>
     <title>Жизнь после "Hello, World"</title>
     <link>https://gwer.github.io/kitchen/the-days-after-hello-world-day-0/the-days-after-hello-world-day-0.html</link>
     <dc:creator>low.level.proger</dc:creator>
@@ -12,7 +24,13 @@
   <item>
     <title>В начале августа интернет затравил айтишницу за твит про налоги в Грузии и Эстонии. Теперь ее увольняют одним днем на третьем месяце беременности. Вот история с ее слов</title>
     <link>https://gwer.github.io/kitchen/pregnancy-it-girl/pregnancy-it-girl.html</link>
-    <dc:creator>Fill, Philipp Ranzhin</dc:creator>
+    <dc:creator>Aleksandr Alekseev, Fill, Philipp Ranzhin, mara</dc:creator>
+    <dc:date>2022-08-11</dc:date>
+  </item>
+  <item>
+    <title>Этично ли работать в Яндексе?</title>
+    <link>https://gwer.github.io/kitchen/ethic/ethic.html</link>
+    <dc:creator>Kira Sotnikoff</dc:creator>
     <dc:date>2022-08-11</dc:date>
   </item>
   <item>
