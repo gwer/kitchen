@@ -4,6 +4,12 @@
   <description>Хорошо живу, купаюсь в бассейне, пью джюс</description>
   <link>https://gwer.github.io/kitchen/</link>
   <item>
+    <title>Обработка ошибок на Go - не ок</title>
+    <link>https://gwer.github.io/kitchen/go-error/go-error.html</link>
+    <dc:creator>Артём Полторацкий</dc:creator>
+    <dc:date>2022-08-14</dc:date>
+  </item>
+  <item>
     <title>Как я делал принципиально новые миграции на С++</title>
     <link>https://gwer.github.io/kitchen/sqlite-orm-new-migrations/sqlite-orm-new-migrations.html</link>
     <dc:creator>Yevgeniy Zakharov</dc:creator>

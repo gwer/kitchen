@@ -9,6 +9,7 @@ layout: default
 </style>
 |||||
 | :--- | :--- | :--- | ---: |
+| 2022-08-14 | [Обработка ошибок на Go - не ок](./go-error/go-error.md) | <small>Артём Полторацкий</small> | <small>[](./go-error/go-error.md#disqus_thread)</small> |
 | 2022-08-13 | [Как я делал принципиально новые миграции на С++](./sqlite-orm-new-migrations/sqlite-orm-new-migrations.md) | <small>Yevgeniy Zakharov</small> | <small>[](./sqlite-orm-new-migrations/sqlite-orm-new-migrations.md#disqus_thread)</small> |
 | 2022-08-12 | [Кира 2pizza бросил работу и теперь делает бесплатный vpn FuckRKN1. А еще много, очень много шитпостит — зачем это все?](./2pizza-story/2pizza-story.md) | <small>Редакция "Разрабов</small> | <small>[](./2pizza-story/2pizza-story.md#disqus_thread)</small> |
 | 2022-08-11 | [Жизнь после "Hello, World"](./the-days-after-hello-world-day-0/the-days-after-hello-world-day-0.md) | <small>low.level.proger</small> | <small>[](./the-days-after-hello-world-day-0/the-days-after-hello-world-day-0.md#disqus_thread)</small> |
