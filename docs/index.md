@@ -9,7 +9,8 @@ layout: default
 </style>
 |||||
 | :--- | :--- | :--- | ---: |
-| 2022-08-16 | [Большой Толстый Апдейт](./release_1_1/release_1_1.md) | <small>Fill</small> | <small>[](./release_1_1/release_1_1.md#disqus_thread)</small> |
+| 2022-08-16 | [Большой Толстый Апдейт](./release_1_1/release_1_1.md) | <small>Alexandr Sidorenko, Fill</small> | <small>[](./release_1_1/release_1_1.md#disqus_thread)</small> |
+| 2022-08-16 | [«В образе Лехи Медь я был популярен среди силовиков» — Андрей Кузьмин застрял в Южной Америке без денег, работы и возможности вернуться. Вот его история](./alex-cuprum-story/alex-cuprum-story.md) | <small>Fill</small> | <small>[](./alex-cuprum-story/alex-cuprum-story.md#disqus_thread)</small> |
 | 2022-08-14 | [Обработка ошибок на Go - не ок](./go-error/go-error.md) | <small>Артём Полторацкий</small> | <small>[](./go-error/go-error.md#disqus_thread)</small> |
 | 2022-08-13 | [Как я делал принципиально новые миграции на С++](./sqlite-orm-new-migrations/sqlite-orm-new-migrations.md) | <small>Yevgeniy Zakharov</small> | <small>[](./sqlite-orm-new-migrations/sqlite-orm-new-migrations.md#disqus_thread)</small> |
 | 2022-08-12 | [Кира 2pizza бросил работу и теперь делает бесплатный vpn FuckRKN1. А еще много, очень много шитпостит — зачем это все?](./2pizza-story/2pizza-story.md) | <small>Редакция "Разрабов</small> | <small>[](./2pizza-story/2pizza-story.md#disqus_thread)</small> |
