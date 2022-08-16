@@ -9,11 +9,12 @@ layout: default
 </style>
 |||||
 | :--- | :--- | :--- | ---: |
+| 2022-08-16 | [Большой Толстый Апдейт](./release_1_1/release_1_1.md) | <small>Fill</small> | <small>[](./release_1_1/release_1_1.md#disqus_thread)</small> |
 | 2022-08-14 | [Обработка ошибок на Go - не ок](./go-error/go-error.md) | <small>Артём Полторацкий</small> | <small>[](./go-error/go-error.md#disqus_thread)</small> |
 | 2022-08-13 | [Как я делал принципиально новые миграции на С++](./sqlite-orm-new-migrations/sqlite-orm-new-migrations.md) | <small>Yevgeniy Zakharov</small> | <small>[](./sqlite-orm-new-migrations/sqlite-orm-new-migrations.md#disqus_thread)</small> |
 | 2022-08-12 | [Кира 2pizza бросил работу и теперь делает бесплатный vpn FuckRKN1. А еще много, очень много шитпостит — зачем это все?](./2pizza-story/2pizza-story.md) | <small>Редакция "Разрабов</small> | <small>[](./2pizza-story/2pizza-story.md#disqus_thread)</small> |
 | 2022-08-11 | [Жизнь после "Hello, World"](./the-days-after-hello-world-day-0/the-days-after-hello-world-day-0.md) | <small>low.level.proger</small> | <small>[](./the-days-after-hello-world-day-0/the-days-after-hello-world-day-0.md#disqus_thread)</small> |
-| 2022-08-11 | [В начале августа интернет затравил айтишницу за твит про налоги в Грузии и Эстонии. Теперь ее увольняют одним днем на третьем месяце беременности. Вот история с ее слов](./pregnancy-it-girl/pregnancy-it-girl.md) | <small>Aleksandr Alekseev, Fill, Philipp Ranzhin, mara</small> | <small>[](./pregnancy-it-girl/pregnancy-it-girl.md#disqus_thread)</small> |
+| 2022-08-11 | [В начале августа интернет затравил айтишницу за твит про налоги в Грузии и Эстонии. Теперь ее увольняют одним днем на третьем месяце беременности. Вот история с ее слов](./pregnancy-it-girl/pregnancy-it-girl.md) | <small>Aleksandr Alekseev, Fill, Philipp Ranzhin, mara, Редакция "Разрабов</small> | <small>[](./pregnancy-it-girl/pregnancy-it-girl.md#disqus_thread)</small> |
 | 2022-08-11 | [Этично ли работать в Яндексе?](./ethic/ethic.md) | <small>Kira Sotnikoff</small> | <small>[](./ethic/ethic.md#disqus_thread)</small> |
 | 2022-08-10 | [Куда движется Web3.0?](./where-is-web3-going/where-is-web3-going.md) | <small>Anatoly Piskunov</small> | <small>[](./where-is-web3-going/where-is-web3-going.md#disqus_thread)</small> |
 | 2022-08-09 | [Айти сообщество видит только технические проблемы и игнорирует человеческие. Это его убьет](./tech-vs-life/tech-vs-life.md) | <small>Fill</small> | <small>[](./tech-vs-life/tech-vs-life.md#disqus_thread)</small> |

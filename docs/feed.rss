@@ -4,6 +4,12 @@
   <description>Хорошо живу, купаюсь в бассейне, пью джюс</description>
   <link>https://gwer.github.io/kitchen/</link>
   <item>
+    <title>Большой Толстый Апдейт</title>
+    <link>https://gwer.github.io/kitchen/release_1_1/release_1_1.html</link>
+    <dc:creator>Fill</dc:creator>
+    <dc:date>2022-08-16</dc:date>
+  </item>
+  <item>
     <title>Обработка ошибок на Go - не ок</title>
     <link>https://gwer.github.io/kitchen/go-error/go-error.html</link>
     <dc:creator>Артём Полторацкий</dc:creator>
@@ -30,7 +36,7 @@
   <item>
     <title>В начале августа интернет затравил айтишницу за твит про налоги в Грузии и Эстонии. Теперь ее увольняют одним днем на третьем месяце беременности. Вот история с ее слов</title>
     <link>https://gwer.github.io/kitchen/pregnancy-it-girl/pregnancy-it-girl.html</link>
-    <dc:creator>Aleksandr Alekseev, Fill, Philipp Ranzhin, mara</dc:creator>
+    <dc:creator>Aleksandr Alekseev, Fill, Philipp Ranzhin, mara, Редакция "Разрабов</dc:creator>
     <dc:date>2022-08-11</dc:date>
   </item>
   <item>
