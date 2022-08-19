@@ -9,10 +9,13 @@ layout: default
 </style>
 |||||
 | :--- | :--- | :--- | ---: |
+| 2022-08-19 | [Как я делал принципиально новые миграции на С++](./sqlite-orm-new-migrations2/sqlite-orm-new-migrations2.md) | <small>Fill, Yevgeniy Zakharov</small> | <small>[](./sqlite-orm-new-migrations2/sqlite-orm-new-migrations2.md#disqus_thread)</small> |
+| 2022-08-18 | [Буллинг тестировщиков в интернете. Собрали мнения разработчиков, HR-менеджера и психотерапевта](./qa-bulling/qa-bulling.md) | <small>egoryarko</small> | <small>[](./qa-bulling/qa-bulling.md#disqus_thread)</small> |
+| 2022-08-18 | [«Мир, в котором почти все — айтишники, наступает. Надо быть готовым». Глеб Михеев рассказывает про учебу, будущее и собесы в барах](./gleb_m/gleb-miheev.md) | <small>Редакция "Разрабов</small> | <small>[](./gleb_m/gleb-miheev.md#disqus_thread)</small> |
 | 2022-08-16 | [Большой Толстый Апдейт](./release_1_1/release_1_1.md) | <small>Alexandr Sidorenko, Fill</small> | <small>[](./release_1_1/release_1_1.md#disqus_thread)</small> |
 | 2022-08-16 | [«В образе Лехи Медь я был популярен среди силовиков» — Андрей Кузьмин застрял в Южной Америке без денег, работы и возможности вернуться. Вот его история](./alex-cuprum-story/alex-cuprum-story.md) | <small>Fill</small> | <small>[](./alex-cuprum-story/alex-cuprum-story.md#disqus_thread)</small> |
 | 2022-08-14 | [Обработка ошибок на Go - не ок](./go-error/go-error.md) | <small>Артём Полторацкий</small> | <small>[](./go-error/go-error.md#disqus_thread)</small> |
-| 2022-08-13 | [Как я делал принципиально новые миграции на С++](./sqlite-orm-new-migrations/sqlite-orm-new-migrations.md) | <small>Yevgeniy Zakharov</small> | <small>[](./sqlite-orm-new-migrations/sqlite-orm-new-migrations.md#disqus_thread)</small> |
+| 2022-08-13 | [Как я делал принципиально новые миграции на С++](./sqlite-orm-new-migrations/sqlite-orm-new-migrations.md) | <small>Fill, Yevgeniy Zakharov</small> | <small>[](./sqlite-orm-new-migrations/sqlite-orm-new-migrations.md#disqus_thread)</small> |
 | 2022-08-12 | [Кира 2pizza бросил работу и теперь делает бесплатный vpn FuckRKN1. А еще много, очень много шитпостит — зачем это все?](./2pizza-story/2pizza-story.md) | <small>Редакция "Разрабов</small> | <small>[](./2pizza-story/2pizza-story.md#disqus_thread)</small> |
 | 2022-08-11 | [Жизнь после "Hello, World"](./the-days-after-hello-world-day-0/the-days-after-hello-world-day-0.md) | <small>low.level.proger</small> | <small>[](./the-days-after-hello-world-day-0/the-days-after-hello-world-day-0.md#disqus_thread)</small> |
 | 2022-08-11 | [В начале августа интернет затравил айтишницу за твит про налоги в Грузии и Эстонии. Теперь ее увольняют одним днем на третьем месяце беременности. Вот история с ее слов](./pregnancy-it-girl/pregnancy-it-girl.md) | <small>Aleksandr Alekseev, Fill, Philipp Ranzhin, mara, Редакция "Разрабов</small> | <small>[](./pregnancy-it-girl/pregnancy-it-girl.md#disqus_thread)</small> |

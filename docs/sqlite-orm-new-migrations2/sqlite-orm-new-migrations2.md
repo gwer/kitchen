@@ -1,7 +1,7 @@
 ---
 layout: post_with_comments
 title: Как я делал принципиально новые миграции на С++
-date: 2022-08-13
+date: 2022-08-19
 author: Fill, Yevgeniy Zakharov
 ---
 
@@ -18,7 +18,7 @@ author: Fill, Yevgeniy Zakharov
 
 От слов к делу. Вот пример кода:
 
-```
+```c++
 struct Object {
     int id = 0;
     std::string name;
@@ -32,7 +32,7 @@ auto storage = make_storage("db.sqlite",
 
 Это мы создали сторожа, который имеет в себе одну таблицу с двумя колонками. Мы не создали БД, это мы лишь создали сторож, который является сервис-объектом для работы с БД. Как вы видите сторож хранит в себе маппинг (привязки, биндинги) классов на таблицы (в нашем случае `Object` к "objects") и колонок к указателям на члены класса (`&Object::id` к "id" и `&Object::name` к "name"). В итоге такая формулировка кода позволяет писать SQL запросы без сырых строк при этом без каких-либо ограничений:
 
-```
+```c++
 auto ids = storage.select(&Object::id);	// decltype(ids) это std::vector<int>
 
 auto names = storage.select(&Object::name) // decltype(names) это std::vector<std::string>
@@ -64,7 +64,7 @@ auto names = storage.select(&Object::name) // decltype(names) это std::vector
 
 Если класс `User` банальный до невозможности:
 
-```
+```c++
 struct User {
     int id = 0;
     std::string name;
@@ -72,7 +72,7 @@ struct User {
 ```
 И есть сторож:
 
-```
+```c++
 auto storage = make_storage(filename,
 						    make_table("users", 
 						               make_column("id", &User::id, primary_key()), 
@@ -83,7 +83,7 @@ storage.sync_schema();
 
 Новая схема будет выглядеть вот так:
 
-```
+```c++
 struct User {
     int id = 0;
     std::string firstName;
@@ -100,7 +100,7 @@ auto storage = make_storage(filename,
 
 Теперь когда ты уважаемый неповторимый опупенный читатель понял, что нам реально нужен функционал миграций, давай разбираться как нам его сделать. Как я говорил ранее, традиционные миграции имеют функции `up` и `down`, в которых обычно пишется код по редактированию схемы и данных. Но у нас уже есть редактирование схемы в `sync_schema`. Надо лишь как-то хитро поймать момент когда данные еще не стерты, подправить их и обновить в БД. Не буду ходить вокруг да около, расскажу сразу что я сделал. Только сначала давайте условимся как мы будем превращать данные из старой колонки `name` в данные в новых колонках `first_name` и `last_name`. Самый простой способ это "пилить" слово по первому пробелу на две части. Первая часть будет `first_name`, а вторая - `last_name`. Если пробела нет, то все содержимое колонки `name` запишется в колонку `first_name`, а поле в колонке `last_name` останется пустым. То есть, 'Sertab Erener' превратится в `Sertab' и 'Erener', а 'Inna' превратится в 'Inna' и ''.
 
-```
+```c++
 storage.register_migration(0, 1, [&] (const connection_container& connection) {
 
 	//	старый тип юзера. Он нужен чтобы работать со старыми данными
@@ -138,7 +138,7 @@ storage.register_migration(0, 1, [&] (const connection_container& connection) {
 
 Далее мы вызываем миграцию:
 
-```
+```c++
 storage.migrate_to(1);
 ```
 

@@ -4,6 +4,24 @@
   <description>Хорошо живу, купаюсь в бассейне, пью джюс</description>
   <link>https://gwer.github.io/kitchen/</link>
   <item>
+    <title>Как я делал принципиально новые миграции на С++</title>
+    <link>https://gwer.github.io/kitchen/sqlite-orm-new-migrations2/sqlite-orm-new-migrations2.html</link>
+    <dc:creator>Fill, Yevgeniy Zakharov</dc:creator>
+    <dc:date>2022-08-19</dc:date>
+  </item>
+  <item>
+    <title>Буллинг тестировщиков в интернете. Собрали мнения разработчиков, HR-менеджера и психотерапевта</title>
+    <link>https://gwer.github.io/kitchen/qa-bulling/qa-bulling.html</link>
+    <dc:creator>egoryarko</dc:creator>
+    <dc:date>2022-08-18</dc:date>
+  </item>
+  <item>
+    <title>«Мир, в котором почти все — айтишники, наступает. Надо быть готовым». Глеб Михеев рассказывает про учебу, будущее и собесы в барах</title>
+    <link>https://gwer.github.io/kitchen/gleb_m/gleb-miheev.html</link>
+    <dc:creator>Редакция "Разрабов</dc:creator>
+    <dc:date>2022-08-18</dc:date>
+  </item>
+  <item>
     <title>Большой Толстый Апдейт</title>
     <link>https://gwer.github.io/kitchen/release_1_1/release_1_1.html</link>
     <dc:creator>Alexandr Sidorenko, Fill</dc:creator>
@@ -24,7 +42,7 @@
   <item>
     <title>Как я делал принципиально новые миграции на С++</title>
     <link>https://gwer.github.io/kitchen/sqlite-orm-new-migrations/sqlite-orm-new-migrations.html</link>
-    <dc:creator>Yevgeniy Zakharov</dc:creator>
+    <dc:creator>Fill, Yevgeniy Zakharov</dc:creator>
     <dc:date>2022-08-13</dc:date>
   </item>
   <item>
