@@ -4,6 +4,12 @@
   <description>Хорошо живу, купаюсь в бассейне, пью джюс</description>
   <link>https://gwer.github.io/kitchen/</link>
   <item>
+    <title>Как стать Настоящим Программистом</title>
+    <link>https://gwer.github.io/kitchen/how-to-become-true/how-to-become-true.html</link>
+    <dc:creator>Shshknv</dc:creator>
+    <dc:date>2022-08-20</dc:date>
+  </item>
+  <item>
     <title>Как я делал принципиально новые миграции на С++</title>
     <link>https://gwer.github.io/kitchen/sqlite-orm-new-migrations2/sqlite-orm-new-migrations2.html</link>
     <dc:creator>Fill, Yevgeniy Zakharov</dc:creator>

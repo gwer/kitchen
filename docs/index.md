@@ -9,6 +9,7 @@ layout: default
 </style>
 |||||
 | :--- | :--- | :--- | ---: |
+| 2022-08-20 | [Как стать Настоящим Программистом](./how-to-become-true/how-to-become-true.md) | <small>Shshknv</small> | <small>[](./how-to-become-true/how-to-become-true.md#disqus_thread)</small> |
 | 2022-08-19 | [Как я делал принципиально новые миграции на С++](./sqlite-orm-new-migrations2/sqlite-orm-new-migrations2.md) | <small>Fill, Yevgeniy Zakharov</small> | <small>[](./sqlite-orm-new-migrations2/sqlite-orm-new-migrations2.md#disqus_thread)</small> |
 | 2022-08-18 | [Буллинг тестировщиков в интернете. Собрали мнения разработчиков, HR-менеджера и психотерапевта](./qa-bulling/qa-bulling.md) | <small>egoryarko</small> | <small>[](./qa-bulling/qa-bulling.md#disqus_thread)</small> |
 | 2022-08-18 | [«Мир, в котором почти все — айтишники, наступает. Надо быть готовым». Глеб Михеев рассказывает про учебу, будущее и собесы в барах](./gleb_m/gleb-miheev.md) | <small>Редакция "Разрабов</small> | <small>[](./gleb_m/gleb-miheev.md#disqus_thread)</small> |
